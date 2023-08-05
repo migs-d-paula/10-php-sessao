@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(56, 56, 56);
+}
+
+#login {
+    position: relative;
+    float: left;
+    width: 400px;
+    background-image: linear-gradient(rgb(197, 197, 197), rgb(234, 234, 234));
+    margin-top: 10%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: rgb(82, 82, 82) 3px 3px 15px;
+}
+
+#login-titulo {
+    font-family: 'Borel', cursive;
+}
